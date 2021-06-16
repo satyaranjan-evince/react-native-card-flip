@@ -307,12 +307,12 @@ class CardFlip extends Component<Props> {
 }
 const styles = StyleSheet.create({
   cardContainer: {
-    flex: 1,
-    position: "absolute",
-    left: 0,
-    right: 0,
-    bottom: 0,
-    top: 0
+    // flex: 1,
+    // position: "relative",
+    // left: 0,
+    // right: 0,
+    // bottom: 0,
+    // top: 0
   }
 });
 
